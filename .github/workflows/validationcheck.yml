@@ -44,5 +44,4 @@ validation_rules:
       - allowed_values:
           - true
           - false
-```
 
